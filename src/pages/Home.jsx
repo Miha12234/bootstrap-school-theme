@@ -90,7 +90,7 @@ function Home() {
               <div className="card">
                 <div className="card-header p-0 position-relative">
                   <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c1.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c1.jpg" alt="Card cap" />
                   </a>
                   <div className="post-pos">
                     <a href="#reciepe" className="receipe blue">Beginner</a>
@@ -139,7 +139,7 @@ function Home() {
               <div className="card">
                 <div className="card-header p-0 position-relative">
                   <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c5.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c5.jpg" alt="Card cap" />
                   </a>
                   <div className="course-price-badge"> Free</div>
                   <div className="post-pos">
@@ -189,7 +189,7 @@ function Home() {
               <div className="card">
                 <div className="card-header p-0 position-relative">
                   <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c6.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c6.jpg" alt="Card cap" />
                   </a>
                   <div className="course-price-badge-new"> New</div>
                 </div>
@@ -393,12 +393,12 @@ function Home() {
                       <span className="post">Director</span>
                       <ul className="social">
                         <li>
-                          <a href="#" className="facebook">
+                          <a href="/" className="facebook">
                             <span className="fa fa-facebook-f" />
                           </a>
                         </li>
                         <li>
-                          <a href="#" className="twitter">
+                          <a href="/" className="twitter">
                             <span className="fa fa-twitter" />
                           </a>
                         </li>
@@ -414,12 +414,12 @@ function Home() {
                       <span className="post">Managing Director</span>
                       <ul className="social">
                         <li>
-                          <a href="#" className="facebook">
+                          <a href="/" className="facebook">
                             <span className="fa fa-facebook-f" />
                           </a>
                         </li>
                         <li>
-                          <a href="#" className="twitter">
+                          <a href="/" className="twitter">
                             <span className="fa fa-twitter" />
                           </a>
                         </li>
@@ -435,12 +435,12 @@ function Home() {
                       <span className="post">Teacher</span>
                       <ul className="social">
                         <li>
-                          <a href="#" className="facebook">
+                          <a href="/" className="facebook">
                             <span className="fa fa-facebook-f" />
                           </a>
                         </li>
                         <li>
-                          <a href="#" className="twitter">
+                          <a href="/" className="twitter">
                             <span className="fa fa-twitter" />
                           </a>
                         </li>
@@ -456,12 +456,12 @@ function Home() {
                       <span className="post">Teacher</span>
                       <ul className="social">
                         <li>
-                          <a href="#" className="facebook">
+                          <a href="/" className="facebook">
                             <span className="fa fa-facebook-f" />
                           </a>
                         </li>
                         <li>
-                          <a href="#" className="twitter">
+                          <a href="/" className="twitter">
                             <span className="fa fa-twitter" />
                           </a>
                         </li>

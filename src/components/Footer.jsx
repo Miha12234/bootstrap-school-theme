@@ -55,7 +55,7 @@ function Footer() {
       {/* copyright */}
       <section className="w3l-copyright text-center">
         <div className="container">
-          <p className="copy-footer-29">© 2020 Study Course. All rights reserved. Design by <a href="https://w3layouts.com/" target="_blank">
+          <p className="copy-footer-29">© 2020 Study Course. All rights reserved. Design by <a href="https://w3layouts.com/" target="_blank" rel="noreferrer">
               W3Layouts</a></p>
         </div>
         {/* move top */}

@@ -15,7 +15,7 @@ function Courses() {
                 <div className="card">
                 <div className="card-header p-0 position-relative">
                     <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c1.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c1.jpg" alt="Card cap" />
                     </a>
                     <div className="post-pos">
                     <a href="#reciepe" className="receipe blue">Beginner</a>
@@ -47,7 +47,7 @@ function Courses() {
                 </div>
                 <div className="card-footer">
                     <div className="author align-items-center">
-                    <img src="assets/images/a1.jpg" alt className="img-fluid rounded-circle" />
+                    <img src="assets/images/a1.jpg" alt="Cap" className="img-fluid rounded-circle" />
                     <ul className="blog-meta">
                         <li>
                         <span className="meta-value mx-1">by</span> <a href="#author"> Olivia</a>
@@ -64,7 +64,7 @@ function Courses() {
                 <div className="card">
                 <div className="card-header p-0 position-relative">
                     <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c2.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c2.jpg" alt="Card cap" />
                     </a>
                     <div className="course-price-badge"> Free</div>
                     <div className="post-pos">
@@ -97,7 +97,7 @@ function Courses() {
                 </div>
                 <div className="card-footer">
                     <div className="author align-items-center">
-                    <img src="assets/images/a2.jpg" alt className="img-fluid rounded-circle" />
+                    <img src="assets/images/a2.jpg" alt="Cap" className="img-fluid rounded-circle" />
                     <ul className="blog-meta">
                         <li>
                         <span className="meta-value mx-1">by</span> <a href="#author"> Isabella</a>
@@ -114,7 +114,7 @@ function Courses() {
                 <div className="card">
                 <div className="card-header p-0 position-relative">
                     <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c3.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c3.jpg" alt="Card cap" />
                     </a>
                     <div className="course-price-badge-new"> New</div>
                 </div>
@@ -143,7 +143,7 @@ function Courses() {
                 </div>
                 <div className="card-footer">
                     <div className="author align-items-center">
-                    <img src="assets/images/a3.jpg" alt className="img-fluid rounded-circle" />
+                    <img src="assets/images/a3.jpg" alt="Cap" className="img-fluid rounded-circle" />
                     <ul className="blog-meta">
                         <li>
                         <span className="meta-value mx-1">by</span> <a href="#author"> Alexander</a>
@@ -160,7 +160,7 @@ function Courses() {
                 <div className="card">
                 <div className="card-header p-0 position-relative">
                     <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c4.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c4.jpg" alt="Card cap" />
                     </a>
                     <div className="post-pos">
                     <a href="#reciepe" className="receipe blue">Beginner</a>
@@ -192,7 +192,7 @@ function Courses() {
                 </div>
                 <div className="card-footer">
                     <div className="author align-items-center">
-                    <img src="assets/images/a4.jpg" alt className="img-fluid rounded-circle" />
+                    <img src="assets/images/a4.jpg" alt="Cap" className="img-fluid rounded-circle" />
                     <ul className="blog-meta">
                         <li>
                         <span className="meta-value mx-1">by</span> <a href="#author"> William</a>
@@ -209,7 +209,7 @@ function Courses() {
                 <div className="card">
                 <div className="card-header p-0 position-relative">
                     <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c5.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c5.jpg" alt="Card cap" />
                     </a>
                     <div className="course-price-badge"> Free</div>
                     <div className="post-pos">
@@ -242,7 +242,7 @@ function Courses() {
                 </div>
                 <div className="card-footer">
                     <div className="author align-items-center">
-                    <img src="assets/images/a1.jpg" alt className="img-fluid rounded-circle" />
+                    <img src="assets/images/a1.jpg" alt="Cap" className="img-fluid rounded-circle" />
                     <ul className="blog-meta">
                         <li>
                         <span className="meta-value mx-1">by</span> <a href="#author"> Olivia</a>
@@ -259,7 +259,7 @@ function Courses() {
                 <div className="card">
                 <div className="card-header p-0 position-relative">
                     <a href="#course-single" className="zoom d-block">
-                    <img className="card-img-bottom d-block" src="assets/images/c6.jpg" alt="Card image cap" />
+                    <img className="card-img-bottom d-block" src="assets/images/c6.jpg" alt="Card cap" />
                     </a>
                     <div className="course-price-badge-new"> New</div>
                 </div>
@@ -288,7 +288,7 @@ function Courses() {
                 </div>
                 <div className="card-footer">
                     <div className="author align-items-center">
-                    <img src="assets/images/a2.jpg" alt className="img-fluid rounded-circle" />
+                    <img src="assets/images/a2.jpg" alt="Cap" className="img-fluid rounded-circle" />
                     <ul className="blog-meta">
                         <li>
                         <span className="meta-value mx-1">by</span> <a href="#author"> Isabella</a>
