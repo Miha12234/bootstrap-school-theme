@@ -30,7 +30,7 @@ function Header() {
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-dark stroke">
           <h1>
-            <a className="navbar-brand" href="index.html">
+            <a className="navbar-brand" href="/">
               <span className="fa fa-diamond" />Study Course <span className="logo">Journey to success</span></a>
           </h1>
           {/* if logo is image enable this   
